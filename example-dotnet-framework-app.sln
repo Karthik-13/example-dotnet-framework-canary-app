@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example-dotnet-framework-app", "example-dotnet-framework-app\example-dotnet-framework-app.csproj", "{553014AC-D0EF-4412-A772-84793F5C44DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example-dotnet-framework-app.Tests", "example-dotnet-framework-app.Tests\example-dotnet-framework-app.Tests.csproj", "{406FD5F7-593B-4AF8-ABB4-7372BC6E986E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553014AC-D0EF-4412-A772-84793F5C44DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553014AC-D0EF-4412-A772-84793F5C44DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553014AC-D0EF-4412-A772-84793F5C44DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553014AC-D0EF-4412-A772-84793F5C44DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406FD5F7-593B-4AF8-ABB4-7372BC6E986E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406FD5F7-593B-4AF8-ABB4-7372BC6E986E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406FD5F7-593B-4AF8-ABB4-7372BC6E986E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406FD5F7-593B-4AF8-ABB4-7372BC6E986E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

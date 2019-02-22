@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
-using example-dotnet-framework-app;
-using example-dotnet-framework-app.Controllers;
+using exampledotnetframeworkapp;
+using exampledotnetframeworkapp.Controllers;
 
 namespace exampledotnetframeworkapp.Tests.Controllers
 {
